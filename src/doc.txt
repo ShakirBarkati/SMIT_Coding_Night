@@ -1,0 +1,7 @@
+user check karo ka user created ha ya nahi ager created ha to err show karo  ✅
+ab login banana ha phala check ho ka user ha ka nahi ager nahi to err show ho warna user login ho jaha or index.html par move ho jaha ✅
+login hona ka baad cookies set kar ne ha ✅
+profile page create kar na ha ✅
+header and footer create kar na ha ✅
+create post form ✅
+Create post in local storage with obj and array 
